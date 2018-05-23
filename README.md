@@ -1,10 +1,10 @@
 # onos-sandbox
 onos testing on ubuntu minimalCD
 
--vagrant up
--vagrant ssh
--ansible --version
--ansible-playbook /vagrant/deploy.yml
+-vagrant up  
+-vagrant ssh  
+-ansible --version  
+-ansible-playbook /vagrant/deploy.yml  
 
 ONOS is the only SDN controller platform that supports the transition from legacy “brown field” networks to SDN “green field” networks
 https://onosproject.org/
