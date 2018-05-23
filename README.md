@@ -6,6 +6,9 @@ onos testing on ubuntu minimalCD
 -ansible --version  
 -ansible-playbook /vagrant/deploy.yml  
 
+Accessing the CLI and GUI
+https://wiki.onosproject.org/display/ONOS/Accessing+the+CLI+and+GUI
+
 ONOS is the only SDN controller platform that supports the transition from legacy “brown field” networks to SDN “green field” networks
 https://onosproject.org/
 
