@@ -63,7 +63,7 @@
 
    - name: Disable the firewall
      systemd:
-      name:  firewalld
+      name:  ufw
       state: stopped
      when:
         - ansible_distribution == "Ubuntu"
