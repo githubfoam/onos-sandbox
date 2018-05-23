@@ -4,7 +4,7 @@ onos testing on ubuntu minimalCD
 -vagrant up  
 -vagrant ssh  
 -ansible --version  
--ansible-playbook /vagrant/deploy.yml
+-ansible-playbook /vagrant/deploy.yml  
 -vagrant destroy   
 
 Accessing the CLI and GUI  
